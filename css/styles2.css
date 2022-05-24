@@ -1,0 +1,16 @@
+img {
+  max-width: 10%;
+}
+
+
+
+p {
+  color: green;
+  text-align: right;
+}
+
+body {
+  color:brown;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
